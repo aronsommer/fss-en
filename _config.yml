@@ -3,14 +3,14 @@ description: A world full of colors and patterns. The works of Swiss artist Ruth
 author: Ruth Bosshart-Rohrbach
 
 # remote_theme: pmarsceill/just-the-docs
-remote_theme: aronsommer/just-the-docs
+remote_theme: leabosshart/just-the-docs
 color_scheme: nil
 search_enabled: false
 
 # Aux links for the upper right navigation
 aux_links:
   "Deutsch":
-    - "http://aronsommer.github.io/fss/"
+    - "http://www.farb-stoff-stich.ch"
 
 # Footer content appears at the bottom of every page's main content
 footer_content: "Copyright &copy; 2020 Ruth Bosshart-Rohrbach"
@@ -24,4 +24,4 @@ footer_content: "Copyright &copy; 2020 Ruth Bosshart-Rohrbach"
 heading_anchors: false
 
 # Google Analytics Tracking (optional)
-# ga_tracking: UA-2709176-10
+ga_tracking: UA-163294258-3

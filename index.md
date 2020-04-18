@@ -4,7 +4,7 @@ has_children: false
 nav_order: 1
 ---
 
-# Welcome to Farb-Stoff-Stich.<br>A world full of colors and patterns.
+# farb-stoff-stich: a world full of colors and patterns
 
-<!-- {% include_relative news/news.html %} -->
-![](images/luminoso1.jpg)
+{% include_relative news/news.html %}
+<!-- ![](images/luminoso1.jpg) -->
